@@ -1,0 +1,12 @@
+# Core dependencies
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+
+# Testing
+pytest==8.1.2
+
+# Development (optional)
+pre-commit==3.6.2
+black==24.2.0
+isort==5.13.2
